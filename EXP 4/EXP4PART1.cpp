@@ -47,3 +47,4 @@ Node* deleteNode(Node* head, int position) {
     delete temp;
     return head;
 }
+git remote -v
